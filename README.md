@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/ALPHANODE/ALN.svg?branch=master)](https://travis-ci.org/ALPHANODE/ALN) [![GitHub version](https://badge.fury.io/gh/alphanodecrypto%2Falphanode.svg)](https://badge.fury.io/gh/alphanodecrypto/alphanode)
-
 Alphanode is a universal 3rd generation cryptocurrency that combines the best features of different coins
 in order to create an excellent new digital payment asset.
 
@@ -15,10 +13,10 @@ For further information visit us at [alphanode.org](https://alphanode.org/) or v
 • PoS Blocks: Starting from 475201  
 • Block Time: 60 Seconds  
 • PoW Max Coin Output/Supply: 57,879,300  
-• PoW Ending: ~ ca. 330 Days (Estimated: October 2018)  
+• PoW Ending: ~ ca. 330 Days (Estimated: Feb 2019)  
 • Masternode Requirements: 10,000 ALN  
 • Maturity: 111 Confirmations  
-• Prefix: ALN adresses start with the capital letter "A"   
+• Prefix: Alphanode adresses start with the capital letter "A"   
 
 # PoW Reward Distribution
 
@@ -50,10 +48,3 @@ _Proof of Stake will automatically be enabled at block 475201._
 
 
 # Further information
-
-_For more information check out our whitepaper at [alphanode.org/whitepaper.pdf](https://alphanode.org/whitepaper.pdf)_
-
-
-Alternatively we have added a non .pdf Version into our Github. You can find it in the ALN Github Wiki.
-
-[https://github.com/ALPHANODE/ALN/wiki](https://github.com/ALPHANODE/ALN/wiki)
