@@ -277,10 +277,10 @@
 #define PACKAGE_BUGREPORT "https://alphanode.org"
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "ALN Core"
+#define PACKAGE_NAME "Alphanode Core"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "ALN Core 2.0.0"
+#define PACKAGE_STRING "Alphanode Core 2.0.0"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "alphanode"

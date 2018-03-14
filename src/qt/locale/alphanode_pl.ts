@@ -231,8 +231,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core</translation>
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -283,12 +283,12 @@
         <translation>Zamknij program</translation>
     </message>
     <message>
-        <source>&amp;About ALN Core</source>
-        <translation>&amp;O ALN Core</translation>
+        <source>&amp;About Alphanode Core</source>
+        <translation>&amp;O Alphanode Core</translation>
     </message>
     <message>
-        <source>Show information about ALN Core</source>
-        <translation>Pokaż informacje o ALN Core</translation>
+        <source>Show information about Alphanode Core</source>
+        <translation>Pokaż informacje o Alphanode Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -451,8 +451,8 @@
         <translation>&amp;Opcje konsoli</translation>
     </message>
     <message>
-        <source>ALN Core client</source>
-        <translation>Klient ALN Core</translation>
+        <source>Alphanode Core client</source>
+        <translation>Klient Alphanode Core</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
@@ -463,8 +463,8 @@
         <translation>Synchronizuję dodatkowe dane: %p%</translation>
     </message>
     <message>
-        <source>Show the ALN Core help message to get a list with possible ALN command-line options</source>
-        <translation>Pokaż wiadomość pomocy ALN Core aby otrzymać listę z dostępnymi opcjami linii komend.</translation>
+        <source>Show the Alphanode Core help message to get a list with possible ALN command-line options</source>
+        <translation>Pokaż wiadomość pomocy Alphanode Core aby otrzymać listę z dostępnymi opcjami linii komend.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -989,8 +989,8 @@ Adres: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core</translation>
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1001,8 +1001,8 @@ Adres: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About ALN Core</source>
-        <translation>Informacje o ALN Core</translation>
+        <source>About Alphanode Core</source>
+        <translation>Informacje o Alphanode Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1048,16 +1048,16 @@ Adres: %4
         <translation>Witaj</translation>
     </message>
     <message>
-        <source>Welcome to ALN Core.</source>
-        <translation>Witaj w ALN Core</translation>
+        <source>Welcome to Alphanode Core.</source>
+        <translation>Witaj w Alphanode Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where ALN Core will store its data.</source>
-        <translation>Ponieważ uruchomiłeś ten program po raz pierwszy, możesz wybrać gdzie ALN Core będzie przechowywał dane.</translation>
+        <source>As this is the first time the program is launched, you can choose where Alphanode Core will store its data.</source>
+        <translation>Ponieważ uruchomiłeś ten program po raz pierwszy, możesz wybrać gdzie Alphanode Core będzie przechowywał dane.</translation>
     </message>
     <message>
-        <source>ALN Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>ALN Core ściągnie i przechowa  kopię blockchain na twoim dysku. Co najmniej %1GB danych zostanie zapisanych w tym katalogu, a wraz z upływem czasu blockchain będzie stopniowo wymagał coraz więcej miejsca. Twój portfel również zostanie zapisany w tym katalogu.</translation>
+        <source>Alphanode Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Alphanode Core ściągnie i przechowa  kopię blockchain na twoim dysku. Co najmniej %1GB danych zostanie zapisanych w tym katalogu, a wraz z upływem czasu blockchain będzie stopniowo wymagał coraz więcej miejsca. Twój portfel również zostanie zapisany w tym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1068,8 +1068,8 @@ Adres: %4
         <translation>Użyj wybranego folderu dla danych</translation>
     </message>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core</translation>
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1264,7 +1264,7 @@ Adres: %4
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
 https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</source>
-        <translation>ALN Core nie został przetłumaczony na twój język? Tłumaczenie jest niepełne lub niepoprawne? Możesz pomóc nam tłumaczyć tutaj:
+        <translation>Alphanode Core nie został przetłumaczony na twój język? Tłumaczenie jest niepełne lub niepoprawne? Możesz pomóc nam tłumaczyć tutaj:
 https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</translation>
     </message>
     <message>
@@ -2586,8 +2586,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>ALN Core is shutting down...</source>
-        <translation>Trwa zamykanie ALN Core</translation>
+        <source>Alphanode Core is shutting down...</source>
+        <translation>Trwa zamykanie Alphanode Core</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2736,8 +2736,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core</translation>
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2748,8 +2748,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Deweloperzy Bitcoin Core</translation>
     </message>
     <message>
-        <source>The ALN Core developers</source>
-        <translation>Deweloperzy ALN Core</translation>
+        <source>The Alphanode Core developers</source>
+        <translation>Deweloperzy Alphanode Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3326,7 +3326,7 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Związany z danym adresem oraz zawsze prowadzący na nim nasłuch.  Użyj [host]:oznaczenie dla IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. ALN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Alphanode Core is probably already running.</source>
         <translation>Nie można zablokować katalogu danych %s. Prawdopodobnie ALN jest już uruchomiony. </translation>
     </message>
     <message>
@@ -3382,7 +3382,7 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Ta wersja nie jest jeszcze gotowa na oficjalne wydanie - używaj jej na własne ryzyko - nie używaj tej wersji do kopania monet lub do świadczenia usług komercyjnych.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. ALN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Alphanode Core is probably already running.</source>
         <translation>Niezdolny do związania z %s na tym komputerze. Prawdopodobnie ALN jest już uruchomiony. </translation>
     </message>
     <message>
@@ -3745,7 +3745,7 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Uwaga: -maxtxfee jest bardzo wysoka! Tak duże opłaty mogą być uiszczone przy wysłaniu jednej transakcji.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ALN Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Alphanode Core will not work properly.</source>
         <translation>Uwaga: Proszę sprawdzić czy data i czas na twoim komputerze są poprawne! Jeśli twój zegar nie pokazuje prawidłowej godziny to ALN może nie działać poprawidłowo.</translation>
     </message>
     <message>
@@ -3799,7 +3799,7 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Prawo autorskie (c) 2009-%i deweloperzy Bitcoin</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The ALN Core Developers</source>
+        <source>Copyright (C) 2014-%i The Alphanode Core Developers</source>
         <translation>Prawa autorskie (C) 2014-%i deweloperzy ALN</translation>
     </message>
     <message>
@@ -3831,7 +3831,7 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Błąd w połączeniu z Masternodem.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of ALN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Alphanode Core</source>
         <translation>Błą wczytywania wallet.dat: Portfel wymaga nowszej wersji ALN</translation>
     </message>
     <message>
@@ -3903,8 +3903,8 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Informacja</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. ALN Core is shutting down.</source>
-        <translation>Inicjalizacja kontroli poprawności nie powiodła się. Trwa zamykanie ALN Core</translation>
+        <source>Initialization sanity check failed. Alphanode Core is shutting down.</source>
+        <translation>Inicjalizacja kontroli poprawności nie powiodła się. Trwa zamykanie Alphanode Core</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4155,8 +4155,8 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Użyj UPnP aby zmapować port nasłuchu (domyślnie: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart ALN Core to complete</source>
-        <translation>Portfel potrzebuje być przepisany: uruchom ponownie ALN Core aby zakończyć.</translation>
+        <source>Wallet needed to be rewritten: restart Alphanode Core to complete</source>
+        <translation>Portfel potrzebuje być przepisany: uruchom ponownie Alphanode Core aby zakończyć.</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>

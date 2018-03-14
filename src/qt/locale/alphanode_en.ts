@@ -776,7 +776,7 @@
     <message>
         <location line="-413"/>
         <location line="+853"/>
-        <source>ALN Core</source>
+        <source>Alphanode Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -801,12 +801,12 @@
     </message>
     <message>
         <location line="+29"/>
-        <source>&amp;About ALN Core</source>
+        <source>&amp;About Alphanode Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about ALN Core</source>
+        <source>Show information about Alphanode Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -871,7 +871,7 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Show the ALN Core help message to get a list with possible ALN command-line options</source>
+        <source>Show the Alphanode Core help message to get a list with possible ALN command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -881,7 +881,7 @@
     </message>
     <message>
         <location line="+147"/>
-        <source>ALN Core client</source>
+        <source>Alphanode Core client</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
@@ -1517,7 +1517,7 @@ Address: %4
     </message>
     <message>
         <location line="+0"/>
-        <source>ALN Core</source>
+        <source>Alphanode Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1528,7 +1528,7 @@ Address: %4
     </message>
     <message>
         <location line="+5"/>
-        <source>About ALN Core</source>
+        <source>About Alphanode Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1586,17 +1586,17 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to ALN Core.</source>
+        <source>Welcome to Alphanode Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where ALN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Alphanode Core will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>ALN Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Alphanode Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1611,7 +1611,7 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+82"/>
-        <source>ALN Core</source>
+        <source>Alphanode Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4024,7 +4024,7 @@ https://www.transifex.com/alphanode-project/alphanode-project-translations</sour
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+43"/>
-        <source>ALN Core is shutting down...</source>
+        <source>Alphanode Core is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4219,7 +4219,7 @@ https://www.transifex.com/alphanode-project/alphanode-project-translations</sour
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+37"/>
-        <source>ALN Core</source>
+        <source>Alphanode Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4239,7 +4239,7 @@ https://www.transifex.com/alphanode-project/alphanode-project-translations</sour
     </message>
     <message>
         <location line="+1"/>
-        <source>The ALN Core developers</source>
+        <source>The Alphanode Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5033,7 +5033,7 @@ https://www.transifex.com/alphanode-project/alphanode-project-translations</sour
     </message>
     <message>
         <location line="+4"/>
-        <source>Cannot obtain a lock on data directory %s. ALN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Alphanode Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5258,7 +5258,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALN Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+13"/>
-        <source>Unable to bind to %s on this computer. ALN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Alphanode Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5293,7 +5293,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALN Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ALN Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Alphanode Core will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5490,7 +5490,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALN Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The ALN Core Developers</source>
+        <source>Copyright (C) 2015-%i The Alphanode Core Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5580,7 +5580,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALN Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of ALN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Alphanode Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5720,7 +5720,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALN Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. ALN Core is shutting down.</source>
+        <source>Initialization sanity check failed. Alphanode Core is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6440,7 +6440,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALN Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart ALN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Alphanode Core to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

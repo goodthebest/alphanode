@@ -16,7 +16,7 @@ BITCOIND_USER=${BITCOIND_USER:-alphanode}
 BITCOIND_GROUP=${BITCOIND_GROUP:-alphanode}
 BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/alphanoded}
 
-name="ALN Core Daemon"
+name="Alphanode Core Daemon"
 description="ALN crypto-currency p2p network daemon"
 
 command="/usr/bin/alphanoded"

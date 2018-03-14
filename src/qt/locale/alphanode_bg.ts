@@ -231,7 +231,7 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>ALN Core</source>
+        <source>Alphanode Core</source>
         <translation>ALN Ядро</translation>
     </message>
     <message>
@@ -283,12 +283,12 @@
         <translation>Изход от приложението</translation>
     </message>
     <message>
-        <source>&amp;About ALN Core</source>
+        <source>&amp;About Alphanode Core</source>
         <translation>&amp;За ALN ядрото</translation>
     </message>
     <message>
-        <source>Show information about ALN Core</source>
-        <translation>Покаци информация за ALN Core</translation>
+        <source>Show information about Alphanode Core</source>
+        <translation>Покаци информация за Alphanode Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -451,8 +451,8 @@
         <translation>&amp;Опции на командния ред</translation>
     </message>
     <message>
-        <source>ALN Core client</source>
-        <translation>ALN Core клиент</translation>
+        <source>Alphanode Core client</source>
+        <translation>Alphanode Core клиент</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
@@ -463,7 +463,7 @@
         <translation>Синхронизиране на допълнителни данни: %p%</translation>
     </message>
     <message>
-        <source>Show the ALN Core help message to get a list with possible ALN command-line options</source>
+        <source>Show the Alphanode Core help message to get a list with possible ALN command-line options</source>
         <translation>Покажи съобщението за помощ на ALN ядрото за да получиш списък на възможните опции за командния ред</translation>
     </message>
     <message>
@@ -989,7 +989,7 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>ALN Core</source>
+        <source>Alphanode Core</source>
         <translation>ALN ядро</translation>
     </message>
     <message>
@@ -1001,7 +1001,7 @@ Address: %4
         <translation>(%1-битов)</translation>
     </message>
     <message>
-        <source>About ALN Core</source>
+        <source>About Alphanode Core</source>
         <translation>За ALN ядрото</translation>
     </message>
     <message>
@@ -1048,15 +1048,15 @@ Address: %4
         <translation>Добре дошли</translation>
     </message>
     <message>
-        <source>Welcome to ALN Core.</source>
+        <source>Welcome to Alphanode Core.</source>
         <translation>Добре дошли в ядрото на ALN.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where ALN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Alphanode Core will store its data.</source>
         <translation>Тъй като програмата се стартира за първи път вие може да изберете къде ALN да съхранява своята информация.</translation>
     </message>
     <message>
-        <source>ALN Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Alphanode Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>ALN ще свали и съхрани копие на ALN регистъра на блокове. Информацията ще заеме поне %1ГБ  пространство и ще нараства с времето. В тази папка ще бъде съхранен и портфейла. </translation>
     </message>
     <message>
@@ -1068,7 +1068,7 @@ Address: %4
         <translation>Определете папка по ваш избор:</translation>
     </message>
     <message>
-        <source>ALN Core</source>
+        <source>Alphanode Core</source>
         <translation>ALN ядро</translation>
     </message>
     <message>
@@ -2586,7 +2586,7 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>ALN Core is shutting down...</source>
+        <source>Alphanode Core is shutting down...</source>
         <translation>ALN ядрото се изключва...</translation>
     </message>
     <message>
@@ -2736,7 +2736,7 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>ALN Core</source>
+        <source>Alphanode Core</source>
         <translation>ALN Ядро</translation>
     </message>
     <message>
@@ -2748,7 +2748,7 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Водещи Bitcoin разработчици</translation>
     </message>
     <message>
-        <source>The ALN Core developers</source>
+        <source>The Alphanode Core developers</source>
         <translation>Водещи ALN разработчици</translation>
     </message>
     <message>
@@ -3326,7 +3326,7 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Свързва се с посочения адрес и винаги слуша за него. Използвайте [хост]:порт за изписване при IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. ALN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Alphanode Core is probably already running.</source>
         <translation>Не може да се заключи дата директорията %s. ALN ядрото вече работи.</translation>
     </message>
     <message>
@@ -3382,7 +3382,7 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Това е предварителна тест версия - използвайте я на ваша отговорност - не използвайте за копане или за търговски приложения.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. ALN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Alphanode Core is probably already running.</source>
         <translation>Не може да се свърже с %s на този компютър. ALN ядрото най-вероятно вече работи.</translation>
     </message>
     <message>
@@ -3737,8 +3737,8 @@ for example: alertnotify=echo %%s | mail -s "ALN Alert" admin@foo.com
         <translation>Внимание: -maxtxfee  е с много голяма зададена стойност! Това е транзакционната такса, която ще платите ако направите единична транзакция.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ALN Core will not work properly.</source>
-        <translation>Внимание: Моля проверете дали датата и часът на вашият компютър са верни! Ако часовникът ви не е сверен, ALN Core няма да работи правилно.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Alphanode Core will not work properly.</source>
+        <translation>Внимание: Моля проверете дали датата и часът на вашият компютър са верни! Ако часовникът ви не е сверен, Alphanode Core няма да работи правилно.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
@@ -3791,8 +3791,8 @@ for example: alertnotify=echo %%s | mail -s "ALN Alert" admin@foo.com
         <translation>Запазени права (C) 2009-%i Bitcoin Core разработчици</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The ALN Core Developers</source>
-        <translation>Запазени права (C) 2014-%i ALN Core разработчиците</translation>
+        <source>Copyright (C) 2014-%i The Alphanode Core Developers</source>
+        <translation>Запазени права (C) 2014-%i Alphanode Core разработчиците</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
@@ -3823,8 +3823,8 @@ for example: alertnotify=echo %%s | mail -s "ALN Alert" admin@foo.com
         <translation>Грешка при свързване с Masternode.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of ALN Core</source>
-        <translation>Грешка при зареждане на wallet.dat: портфейлът изисква по-нова версия на ALN Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Alphanode Core</source>
+        <translation>Грешка при зареждане на wallet.dat: портфейлът изисква по-нова версия на Alphanode Core</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
@@ -3895,7 +3895,7 @@ for example: alertnotify=echo %%s | mail -s "ALN Alert" admin@foo.com
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. ALN Core is shutting down.</source>
+        <source>Initialization sanity check failed. Alphanode Core is shutting down.</source>
         <translation>Инициализационната проверка не успешна. ALN ядрото се изключва.</translation>
     </message>
     <message>
@@ -4147,7 +4147,7 @@ for example: alertnotify=echo %%s | mail -s "ALN Alert" admin@foo.com
         <translation>Използвай UPnP за определяне на порта за слушане (по подразбиране: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart ALN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Alphanode Core to complete</source>
         <translation>Портфейлът трябва да бъде презаписан: рестартирайте ALN за да завършите</translation>
     </message>
     <message>

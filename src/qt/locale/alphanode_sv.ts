@@ -219,8 +219,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core
 </translation>
     </message>
     <message>
@@ -272,8 +272,8 @@
         <translation>Avsluta applikationen</translation>
     </message>
     <message>
-        <source>&amp;About ALN Core</source>
-        <translation>&amp;Om ALN Core</translation>
+        <source>&amp;About Alphanode Core</source>
+        <translation>&amp;Om Alphanode Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -412,8 +412,8 @@
         <translation>&amp;Kommandoradalternativ</translation>
     </message>
     <message>
-        <source>Show the ALN Core help message to get a list with possible ALN command-line options</source>
-        <translation>Visa ALN Core-hjälpmeddelandet för att få en lista med möjliga ALN-kommandoradalternativ</translation>
+        <source>Show the Alphanode Core help message to get a list with possible ALN command-line options</source>
+        <translation>Visa Alphanode Core-hjälpmeddelandet för att få en lista med möjliga ALN-kommandoradalternativ</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -883,8 +883,8 @@ Adress: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core
 </translation>
     </message>
     <message>
@@ -931,16 +931,16 @@ Adress: %4
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to ALN Core.</source>
-        <translation>Välkommen till ALN Core.</translation>
+        <source>Welcome to Alphanode Core.</source>
+        <translation>Välkommen till Alphanode Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where ALN Core will store its data.</source>
-        <translation>Då detta är första gången programmet startas kan du välja var ALN Core ska lagra sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Alphanode Core will store its data.</source>
+        <translation>Då detta är första gången programmet startas kan du välja var Alphanode Core ska lagra sin data.</translation>
     </message>
     <message>
-        <source>ALN Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>ALN Core kommer att laddas ned och lagra en kopia av ALN:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
+        <source>Alphanode Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Alphanode Core kommer att laddas ned och lagra en kopia av ALN:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1985,8 +1985,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>ALN Core is shutting down...</source>
-        <translation>ALN Core stängs ned...</translation>
+        <source>Alphanode Core is shutting down...</source>
+        <translation>Alphanode Core stängs ned...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2127,8 +2127,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core
 </translation>
     </message>
     <message>
@@ -2140,8 +2140,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Bitcoin Core-utvecklarna</translation>
     </message>
     <message>
-        <source>The ALN Core developers</source>
-        <translation>ALN Core-utvecklarna</translation>
+        <source>The Alphanode Core developers</source>
+        <translation>Alphanode Core-utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2662,8 +2662,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Sammanbind till fastställd adress och avlyssna alltid den. Använd [host]:port-notation för IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. ALN Core is probably already running.</source>
-        <translation>Kan inte erhålla ett lås på datakatalog %s. ALN Core körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. Alphanode Core is probably already running.</source>
+        <translation>Kan inte erhålla ett lås på datakatalog %s. Alphanode Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Obfuscate uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -2718,8 +2718,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Detta är en förhandsutgiven testkompilering - använd på egen risk - använd inte för utvinning eller handlarapplikationer.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. ALN Core is probably already running.</source>
-        <translation>Det går inte att binda till %s till denna dator. ALN Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. Alphanode Core is probably already running.</source>
+        <translation>Det går inte att binda till %s till denna dator. Alphanode Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscate denominated funds for this transaction.</source>
@@ -2942,8 +2942,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. ALN Core is shutting down.</source>
-        <translation>Initialiseringstillståndkontroll misslyckades. ALN Core stängs ned.</translation>
+        <source>Initialization sanity check failed. Alphanode Core is shutting down.</source>
+        <translation>Initialiseringstillståndkontroll misslyckades. Alphanode Core stängs ned.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>

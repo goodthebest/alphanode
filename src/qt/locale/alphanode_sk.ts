@@ -231,8 +231,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core</translation>
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -283,12 +283,12 @@
         <translation>Ukončiť program</translation>
     </message>
     <message>
-        <source>&amp;About ALN Core</source>
-        <translation>&amp;O ALN Core</translation>
+        <source>&amp;About Alphanode Core</source>
+        <translation>&amp;O Alphanode Core</translation>
     </message>
     <message>
-        <source>Show information about ALN Core</source>
-        <translation>Zobraziť informácie o ALN Core</translation>
+        <source>Show information about Alphanode Core</source>
+        <translation>Zobraziť informácie o Alphanode Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -451,8 +451,8 @@
         <translation>Možnosti príkazového riadku</translation>
     </message>
     <message>
-        <source>ALN Core client</source>
-        <translation>ALN Core klient</translation>
+        <source>Alphanode Core client</source>
+        <translation>Alphanode Core klient</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
@@ -463,8 +463,8 @@
         <translation>Synchronizujú sa ďalšie dáta: %p%</translation>
     </message>
     <message>
-        <source>Show the ALN Core help message to get a list with possible ALN command-line options</source>
-        <translation>Zobraziť ALN Core nápovedu k získaniu zoznamu možností príkazového riadku ALN.</translation>
+        <source>Show the Alphanode Core help message to get a list with possible ALN command-line options</source>
+        <translation>Zobraziť Alphanode Core nápovedu k získaniu zoznamu možností príkazového riadku ALN.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -988,8 +988,8 @@ Adresa: %4</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core</translation>
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1000,8 +1000,8 @@ Adresa: %4</translation>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About ALN Core</source>
-        <translation>O ALN Core</translation>
+        <source>About Alphanode Core</source>
+        <translation>O Alphanode Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1047,16 +1047,16 @@ Adresa: %4</translation>
         <translation>Vitajte</translation>
     </message>
     <message>
-        <source>Welcome to ALN Core.</source>
-        <translation>Vitajte v ALN Core.</translation>
+        <source>Welcome to Alphanode Core.</source>
+        <translation>Vitajte v Alphanode Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where ALN Core will store its data.</source>
-        <translation>Keďže toto je prvý krát čo spúšťate tento program, môžete vybrať kam bude ALN Core ukladať svoje dáta.</translation>
+        <source>As this is the first time the program is launched, you can choose where Alphanode Core will store its data.</source>
+        <translation>Keďže toto je prvý krát čo spúšťate tento program, môžete vybrať kam bude Alphanode Core ukladať svoje dáta.</translation>
     </message>
     <message>
-        <source>ALN Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>ALN Core stiahne a uloží kópiu reťazca blokov ALN. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
+        <source>Alphanode Core will download and store a copy of the ALN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Alphanode Core stiahne a uloží kópiu reťazca blokov ALN. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1067,8 +1067,8 @@ Adresa: %4</translation>
         <translation>Použiť vlastný dátový adresár:</translation>
     </message>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core</translation>
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2585,7 +2585,7 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>ALN Core is shutting down...</source>
+        <source>Alphanode Core is shutting down...</source>
         <translation>ALN core sa vypína...</translation>
     </message>
     <message>
@@ -2735,8 +2735,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>ALN Core</source>
-        <translation>ALN Core</translation>
+        <source>Alphanode Core</source>
+        <translation>Alphanode Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2747,8 +2747,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Vývojári jadra Bitcoin</translation>
     </message>
     <message>
-        <source>The ALN Core developers</source>
-        <translation>Vývojári ALN Core</translation>
+        <source>The Alphanode Core developers</source>
+        <translation>Vývojári Alphanode Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3325,8 +3325,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Spojiť s danou adresou a vždy na nej počúvať. Použite zápis [host]:port pre IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. ALN Core is probably already running.</source>
-        <translation>Nedá sa zamknúť dátový adresár %s. ALN Core už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s. Alphanode Core is probably already running.</source>
+        <translation>Nedá sa zamknúť dátový adresár %s. Alphanode Core už pravdepodobne beží.</translation>
     </message>
     <message>
         <source>Obfuscate uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -3381,8 +3381,8 @@ https://www.transifex.com/alphanode-crypto/alphanode-wallet-translations/</trans
         <translation>Toto je predbežná testovacia zostava - používate na vlastné riziko - nepoužívajte na ťaženie alebo obchodné aplikácie</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. ALN Core is probably already running.</source>
-        <translation>Nedá sa viazať ku %s na tomto počítači. ALN Core už pravdepodobne beží.</translation>
+        <source>Unable to bind to %s on this computer. Alphanode Core is probably already running.</source>
+        <translation>Nedá sa viazať ku %s na tomto počítači. Alphanode Core už pravdepodobne beží.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscate denominated funds for this transaction.</source>
@@ -3745,8 +3745,8 @@ napríklad: alertnotify=echo %%s | mail -s "ALN Upozornenie" admin@foo.com
         <translation>Upozornenie: -maxtxfee je nastavené príliš vysoko! Takto vysoké poplatky by mali byť zaplatené za jednu transakciu.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ALN Core will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte si prosím či máte správny čas a dátum na Vašom počítači. Ak je Vaše nastavenie zlé, ALN Core nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Alphanode Core will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte si prosím či máte správny čas a dátum na Vašom počítači. Ak je Vaše nastavenie zlé, Alphanode Core nebude pracovať správne.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
@@ -3799,7 +3799,7 @@ napríklad: alertnotify=echo %%s | mail -s "ALN Upozornenie" admin@foo.com
         <translation>Autorské práva (C) 2009-%i Vývojári jadra Bitcoin</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The ALN Core Developers</source>
+        <source>Copyright (C) 2014-%i The Alphanode Core Developers</source>
         <translation>Autorské práva (C) 2014-%i Vývojári jadra ALN</translation>
     </message>
     <message>
@@ -3831,8 +3831,8 @@ napríklad: alertnotify=echo %%s | mail -s "ALN Upozornenie" admin@foo.com
         <translation>Chyba pripojenia k Masternode.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of ALN Core</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu ALN Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Alphanode Core</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Alphanode Core</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
@@ -3903,8 +3903,8 @@ napríklad: alertnotify=echo %%s | mail -s "ALN Upozornenie" admin@foo.com
         <translation>Informácia</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. ALN Core is shutting down.</source>
-        <translation>Inicializácia kontroly zdravia zlyhala. ALN Core sa vypína.</translation>
+        <source>Initialization sanity check failed. Alphanode Core is shutting down.</source>
+        <translation>Inicializácia kontroly zdravia zlyhala. Alphanode Core sa vypína.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4155,8 +4155,8 @@ napríklad: alertnotify=echo %%s | mail -s "ALN Upozornenie" admin@foo.com
         <translation>Použiť UPnP pre mapovanie počúvajúceho portu (predvolené: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart ALN Core to complete</source>
-        <translation>Bolo potrebné prepísať peňaženku: k dokončeniu reštartujte ALN Core</translation>
+        <source>Wallet needed to be rewritten: restart Alphanode Core to complete</source>
+        <translation>Bolo potrebné prepísať peňaženku: k dokončeniu reštartujte Alphanode Core</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>

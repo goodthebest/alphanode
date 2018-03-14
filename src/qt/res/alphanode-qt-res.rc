@@ -20,7 +20,7 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "Alphanode"
-            VALUE "FileDescription",    "Alphanode Core (OSS GUI client for ALN)"
+            VALUE "FileDescription",    "Alphanode Core (OSS GUI client for Alphanode)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "alphanode-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
