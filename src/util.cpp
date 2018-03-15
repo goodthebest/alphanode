@@ -106,7 +106,7 @@ std::string to_internal(const std::string&);
 
 using namespace std;
 
-//ALN only features
+//Alphanode only features
 bool fMasterNode = false;
 string strMasterNodePrivKey = "";
 string strMasterNodeAddr = "";
@@ -232,7 +232,7 @@ bool LogAcceptCategory(const char* category)
             const vector<string>& categories = mapMultiArgs["-debug"];
             ptrCategory.reset(new set<string>(categories.begin(), categories.end()));
             // thread_specific_ptr automatically deletes the set when the thread ends.
-            // "alphanode" is a composite category enabling all ALN-related debug output
+            // "alphanode" is a composite category enabling all Alphanode-related debug output
             if (ptrCategory->count(string("alphanode"))) {
                 ptrCategory->insert(string("Darksend"));
                 ptrCategory->insert(string("Instantx"));
@@ -418,13 +418,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-// Windows < Vista: C:\Documents and Settings\Username\Application Data\ALN
-// Windows >= Vista: C:\Users\Username\AppData\Roaming\ALN
-// Mac: ~/Library/Application Support/ALN
+// Windows < Vista: C:\Documents and Settings\Username\Application Data\Alphanode
+// Windows >= Vista: C:\Users\Username\AppData\Roaming\Alphanode
+// Mac: ~/Library/Application Support/Alphanode
 // Unix: ~/.alphanode
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "ALN";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Alphanode";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -436,7 +436,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     TryCreateDirectory(pathRet);
-    return pathRet / "ALN";
+    return pathRet / "Alphanode";
 #else
     // Unix
     return pathRet / ".alphanode";
