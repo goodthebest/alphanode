@@ -285,7 +285,7 @@ In this ^ case, the alias of my MasterNode was MN01, in your case, it might be d
 
 Give it a few minutes and go to the Linux VPS console and check the status of the masternode with this command:
 ```
-alphanoded masternode status
+alphanode-cli masternode status
 ```
 
 If you see status `Masternode successfully started`, you've done it, congratulations. Go hug someone now :)
